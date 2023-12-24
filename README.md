@@ -1,6 +1,7 @@
 # Just tried to revise some react topics after end sems
 
-![readmeImage1](https://github.com/kbhavre/Asol-Dhaba/assets/89301840/6e566c78-7f67-46f4-856c-021a3685872b)
+![readmeImage1](https://github.com/kbhavre/mernpage/assets/89301840/9c59f77a-f1b5-42c2-b427-25da2db50161)
+
 
 ## Also need some major changes in the website , so the project is still in development phase.
 
