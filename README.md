@@ -7,7 +7,8 @@
 
 What changes needed are described below 
 
-1. Add 2 more slides in the testimonial sections.
-2. Add cross icon in the navbar drawer (for small screen devices).
-3. Add top/bottom button .
-4. Add a dark more toggler.
+1. Routing needed.
+2. Add 2 more slides in the testimonial sections.
+3. Add cross icon in the navbar drawer (for small screen devices).
+4. Add top/bottom button .
+5. Add a dark more toggler.
